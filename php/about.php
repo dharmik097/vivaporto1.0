@@ -15,7 +15,7 @@
     
     <div class="container my-5">
         <!-- Heading Section -->
-        <h1 class="text-center">Sobre nós</h1>
+        <h1 class="text-center">About us</h1>
         <!-- Paragraph Section -->
         <div class="mt-4">
             <p>
@@ -58,7 +58,7 @@
                 adipisicing elit. Illum facere impedit dolor ea hic, earum
                 autem. Et nam explicabo ea qui! Esse cumque quaerat ut est
                 repellat asperiores perferendis assumenda necessitatibus debitis
-                nisi atque, repellendus quod excepturi, tenetur nesciunt quo?
+                nisi atque, repellendus quod excepturi, tenetur nesciunt quo?jhgh
             </p>
         </div>
         <!-- Button -->
