@@ -22,10 +22,12 @@
                 data-bs-slide-to="1" aria-label="Slide 2"></button>
             <button type="button" data-bs-target="#carouselExampleIndicators"
                 data-bs-slide-to="2" aria-label="Slide 3"></button>
+            <button type="button" data-bs-target="#carouselExampleIndicators"
+                data-bs-slide-to="3" aria-label="Slide 4"></button>    
         </div>
         <div class="carousel-inner">
             <div class="carousel-item active">
-                <img src="assets/images/porto2.jpeg" class="d-block w-100"
+                <img src="assets/images/porto1.jpeg" class="d-block w-100"
                     alt="First Slide">
                 <div class="carousel-caption d-none d-md-block">
                     <h5>First Slide</h5>
@@ -33,7 +35,7 @@
                 </div>
             </div>
             <div class="carousel-item">
-                <img src="assets/images/porto3.jpg" class="d-block w-100"
+                <img src="assets/images/porto2.jpg" class="d-block w-100"
                     alt="Second Slide">
                 <div class="carousel-caption d-none d-md-block">
                     <h5>Second Slide</h5>
@@ -41,7 +43,7 @@
                 </div>
             </div>
             <div class="carousel-item">
-                <img src="assets/images/porto5.jpg" class="d-block w-100"
+                <img src="./assets/images/porto3.jpg" class="d-block w-100"
                     alt="Third Slide">
                 <div class="carousel-caption d-none d-md-block">
                     <h5>Third Slide</h5>
@@ -49,10 +51,10 @@
                 </div>
             </div>
             <div class="carousel-item">
-                <img src="assets/images/porto6.jpg" class="d-block w-100"
+                <img src="assets/images/porto4.jpg" class="d-block w-100"
                     alt="Forth Slide">
                 <div class="carousel-caption d-none d-md-block">
-                    <h5>Third Slide</h5>
+                    <h5>Fourth Slide</h5>
                     <p>Description for the third slide.</p>
                 </div>
             </div>
