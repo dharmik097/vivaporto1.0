@@ -16,30 +16,55 @@
     <div class="container mt-4">
         <div class="row">
             <div class="col-6 col-md-4 mb-4">
-                <img src="https://placehold.co/600x400" alt="Gallery Image 1"
+                <img src="./assets/images/porto01.png" alt="Porto"
                     class="img-fluid gallery-img">
             </div>
             <div class="col-6 col-md-4 mb-4">
-                <img src="https://placehold.co/600x400" alt="Gallery Image 2"
+                <img src="./assets/images/porto02.png" alt="porto"
                     class="img-fluid gallery-img">
             </div>
             <div class="col-6 col-md-4 mb-4">
-                <img src="https://placehold.co/600x400" alt="Gallery Image 3"
+                <img src="./assets/images/porto03.png" alt="porto"
                     class="img-fluid gallery-img">
             </div>
             <div class="col-6 col-md-4 mb-4">
-                <img src="https://placehold.co/600x400" alt="Gallery Image 4"
+                <img src="./assets/images/porto04.png" alt="porto"
                     class="img-fluid gallery-img">
             </div>
             <div class="col-6 col-md-4 mb-4">
-                <img src="https://placehold.co/600x400" alt="Gallery Image 5"
+                <img src="./assets/images/porto05.png" alt="porto"
                     class="img-fluid gallery-img">
             </div>
             <div class="col-6 col-md-4 mb-4">
-                <img src="https://placehold.co/600x400" alt="Gallery Image 6"
+                <img src="./assets/images/porto06.png" alt="porto"
                     class="img-fluid gallery-img">
             </div>
-        </div>
+            <div class="col-6 col-md-4 mb-4">
+                <img src="./assets/images/porto07.png" alt="porto"
+                    class="img-fluid gallery-img">
+            </div>
+            <div class="col-6 col-md-4 mb-4">
+                <img src="./assets/images/porto08.png" alt="porto"
+                    class="img-fluid gallery-img">
+            </div>
+            <div class="col-6 col-md-4 mb-4">
+                <img src="./assets/images/porto09.png" alt="porto"
+                    class="img-fluid gallery-img">
+            </div>
+            <div class="col-6 col-md-4 mb-4">
+                <img src="./assets/images/porto10.png" alt="porto"
+                    class="img-fluid gallery-img">
+            </div>
+            <div class="col-6 col-md-4 mb-4">
+                <img src="./assets/images/porto11.png" alt="porto"
+                    class="img-fluid gallery-img">
+            </div>
+            <div class="col-6 col-md-4 mb-4">
+                <img src="./assets/images/porto12.png" alt="porto"
+                    class="img-fluid gallery-img">
+            </div>
+            
+        </di>
     </div>
 
      <!-- Bootstream JavaScript -->

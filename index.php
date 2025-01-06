@@ -27,7 +27,7 @@
         </div>
         <div class="carousel-inner">
             <div class="carousel-item active">
-                <img src="assets/images/porto1.jpeg" class="d-block w-100"
+                <img src="./assets/images/porto10.png" class="d-block w-100"
                     alt="First Slide">
                 <div class="carousel-caption d-none d-md-block">
                     <h5>First Slide</h5>
@@ -35,7 +35,7 @@
                 </div>
             </div>
             <div class="carousel-item">
-                <img src="assets/images/porto2.jpg" class="d-block w-100"
+                <img src="./assets/images/porto07.png" class="d-block w-100"
                     alt="Second Slide">
                 <div class="carousel-caption d-none d-md-block">
                     <h5>Second Slide</h5>
@@ -43,7 +43,7 @@
                 </div>
             </div>
             <div class="carousel-item">
-                <img src="./assets/images/porto3.jpg" class="d-block w-100"
+                <img src="./assets/images/porto09.png" class="d-block w-100"
                     alt="Third Slide">
                 <div class="carousel-caption d-none d-md-block">
                     <h5>Third Slide</h5>
@@ -51,7 +51,7 @@
                 </div>
             </div>
             <div class="carousel-item">
-                <img src="assets/images/porto4.jpg" class="d-block w-100"
+                <img src="./assets/images/porto05.png" class="d-block w-100"
                     alt="Forth Slide">
                 <div class="carousel-caption d-none d-md-block">
                     <h5>Fourth Slide</h5>
@@ -77,7 +77,7 @@
             <!-- Card 1 -->
             <div class="col">
                 <div class="card h-100">
-                    <img src="assets/images/porto1.jpg" class="card-img-top"
+                    <img src="assets/images/porto01.png" class="card-img-top"
                         alt="Casa da Barra">
                     <div class="card-body">
                         <h5 class="card-title">Casa da Barra</h5>
@@ -102,7 +102,7 @@
             <!-- Card 2 -->
             <div class="col">
                 <div class="card h-100">
-                    <img src="assets/images/porto1.jpg" class="card-img-top"
+                    <img src="assets/images/porto02.png" class="card-img-top"
                         alt="Casa da Barra">
                     <div class="card-body">
                         <h5 class="card-title">Casa da Barra</h5>
@@ -127,7 +127,7 @@
             <!-- Card 3 -->
             <div class="col">
                 <div class="card h-100">
-                    <img src="assets/images/porto1.jpg" class="card-img-top"
+                    <img src="assets/images/porto03.png" class="card-img-top"
                         alt="Casa da Barra">
                     <div class="card-body">
                         <h5 class="card-title">Casa da Barra</h5>
@@ -152,7 +152,7 @@
             <!-- Card 4 -->
             <div class="col">
                 <div class="card h-100" id="hhhh">
-                    <img src="assets/images/porto1.jpg" class="card-img-top"
+                    <img src="assets/images/porto04.png" class="card-img-top"
                         alt="Casa da Barra">
                     <div class="card-body">
                         <h5 class="card-title">Casa da Barra</h5>
